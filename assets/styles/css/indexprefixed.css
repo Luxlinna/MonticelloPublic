@@ -14,8 +14,8 @@ h1, h2, h3, h4, h5, h6, p, ul {
 .header {
   height: 800px;
   background-size: cover;
-  background-image: url("/assets/images/headerbackground.png"), -o-linear-gradient(206.57deg, #7e5aff 16.9%, #55b7ff 83.27%);
-  background-image: url("/assets/images/headerbackground.png"), linear-gradient(243.43deg, #7e5aff 16.9%, #55b7ff 83.27%);
+  background-image: url("./assets/images/headerbackground.png"), -o-linear-gradient(206.57deg, #7e5aff 16.9%, #55b7ff 83.27%);
+  background-image: url("./assets/images/headerbackground.png"), linear-gradient(243.43deg, #7e5aff 16.9%, #55b7ff 83.27%);
   padding-top: 53px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -295,8 +295,8 @@ h1, h2, h3, h4, h5, h6, p, ul {
 .news {
   height: 1035px;
   background-size: cover;
-  background-image: url("/assets/images/newsbackground.png"), -o-linear-gradient(212.9deg, #24ccfa 11.16%, #3c7fd4 89.18%);
-  background-image: url("/assets/images/newsbackground.png"), linear-gradient(237.1deg, #24ccfa 11.16%, #3c7fd4 89.18%);
+  background-image: url("./assets/images/newsbackground.png"), -o-linear-gradient(212.9deg, #24ccfa 11.16%, #3c7fd4 89.18%);
+  background-image: url("./assets/images/newsbackground.png"), linear-gradient(237.1deg, #24ccfa 11.16%, #3c7fd4 89.18%);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -495,7 +495,7 @@ h1, h2, h3, h4, h5, h6, p, ul {
 .gallery__image-wrapper {
   width: 580px;
   height: 438px;
-  background-image: url(/assets/images/gallery1.png);
+  background-image: url(./assets/images/gallery1.png);
   background-color: #2c4058;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -591,7 +591,7 @@ h1, h2, h3, h4, h5, h6, p, ul {
   padding: 60px 60px 68px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  background-image: url(/assets/images/contactbackround.png);
+  background-image: url(./assets/images/contactbackround.png);
   background-color: white;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -675,8 +675,8 @@ h1, h2, h3, h4, h5, h6, p, ul {
 .footer {
   height: 549px;
   background-size: cover;
-  background-image: url("/assets/images/footerbackground.png"), -o-linear-gradient(198.94deg, #7E5AFF -2.19%, #55B7FF 103.21%);
-  background-image: url("/assets/images/footerbackground.png"), linear-gradient(251.06deg, #7E5AFF -2.19%, #55B7FF 103.21%);
+  background-image: url("./assets/images/footerbackground.png"), -o-linear-gradient(198.94deg, #7E5AFF -2.19%, #55B7FF 103.21%);
+  background-image: url("./assets/images/footerbackground.png"), linear-gradient(251.06deg, #7E5AFF -2.19%, #55B7FF 103.21%);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
